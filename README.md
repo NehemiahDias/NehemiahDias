@@ -5,7 +5,7 @@ I am **Nehemiah Dias** and I am a self taught **Web Developer**. I am skilled in
 
 ---
 - 🔭 I’m currently working on creating web apps to solve everyday problems
-- 🌱 I’m currently learning TypeScript and Tailwind
+- 🌱 I’m currently learning all things Back-End Development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding a job where I can learn & grow
 - 💬 Ask me about Web Development
