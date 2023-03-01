@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/SWELLZ/SWELLZ/blob/main/Banner.png)
 # Hi there 👋
 
-I am **Nehemiah Dias** and I am a self taught **Web Developer** at bp pulse fleet. I am skilled in HTML, CSS, JavaScript, React, Redux, Python, and C++/C# with the dedication to learn much more! I'm interested in Design which puts my focus onto Front End Development but my current plan is to become skilled in Back End Development as well.  
+I am **Nehemiah Dias** and I am a **Front End Engineer** at bp pulse fleet. I am skilled in HTML, CSS, JavaScript, React, Redux, Python, and C++/C# with the dedication to learn much more! I'm interested in Design which puts my focus onto Front End Development but my current plan is to become skilled in Back End Development as well.  
 
 ---
 - 🔭 I’m currently working on fighting against climate change with bp pulse fleet 🌎
